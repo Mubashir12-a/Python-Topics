@@ -8,4 +8,6 @@
   5. Modules in python
   6. Conditional Statememts in python
   7. Match-Case Statement in python
+  8. strings in python
+  9. String Methods in python
 </pre>
