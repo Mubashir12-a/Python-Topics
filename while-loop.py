@@ -16,5 +16,5 @@ user_pass = input("Enter Password: ")
 
 while user_pass != password:
     user_pass = input("Try again: ")
-    
-print("Access Granted")
+else:
+    print("Access Granted")
