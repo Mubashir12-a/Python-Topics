@@ -10,4 +10,8 @@
   7. Match-Case Statement in python
   8. strings in python
   9. String Methods in python
+  10. Functions & argument types
+  11. Lists and Indexing
+  12. loops & conditions with list 
+  13. List comprehension
 </pre>
