@@ -5,7 +5,8 @@ In python identation is considered important thing
 because it represents block of code.
 '''
 
-age = int(input("Enter age: "))
+# age = int(input("Enter age: "))
+age = 20
 
 if(age >= 18):
     print("You can drive.")
@@ -15,7 +16,8 @@ else:
     
     
     
-temp = int(input("Enter temperature: "))
+# temp = int(input("Enter temperature: "))
+temp = 20
 
 if(temp <= 0):
     print("Its cold temperature outside.")
@@ -45,4 +47,14 @@ else:
     else:
         print(f"{z} is biggest num")
 
+
+
+# short-hand if-else:
+
+a = 10
+b = 20
+
+print("A") if a > b else print("=") if a == b else print("B")
+
+# result = true if condition else false
 
